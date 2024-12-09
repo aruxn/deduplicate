@@ -4,4 +4,4 @@
 ```python deduplicate.py``` 
 
 - *leads_output.json* - Final deduped leads
-- *leads_output_log.json* - Logs
+- *leads_output_logs.json* - Logs
